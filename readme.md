@@ -10,7 +10,7 @@
 
 <h4>Collaborators</h4>
 
-[souravgsn](https://github.com/souravgsn) <br/>
+[amanyadav](https://github.com/Amanyadav257) <br/>
 [imhrithik](https://github.com/imhrithik) <br/>
 
 [site hosted at 000webhost](http://bookmaniapro.000webhostapp.com)
